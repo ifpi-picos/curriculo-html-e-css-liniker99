@@ -1,0 +1,161 @@
+    body {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+        margin: 0%;
+        background-color: #CFCFCF;
+    }
+    
+    main {
+        width: 69%;
+        height: auto;
+        display: inline-block;
+        text-align: center;
+        padding: 5px;
+        vertical-align: top;
+    }
+    
+    header {
+        background-color: #8B0000;
+        color: white;
+        border: 1px solid #000;
+        text-align: right;
+        padding: 40px 20px;
+    }
+    
+    figure.foto-cabecalho img {
+        width: 8%;
+        float: left;
+        margin-top: -105px;
+        border-radius: 15%;
+        display: inline-block;
+        -webkit-border-radius: 15%;
+        -moz-border-radius: 15%;
+        -ms-border-radius: 15%;
+        -o-border-radius: 15%;
+    }
+    
+    .para-cabecalho {
+        text-align: right;
+        margin-top: -57px;
+    }
+    
+    .aplicar-bordas {
+        border: 1.5px solid #000;
+    }
+    
+    .borda-aside {
+        border: 1.5px solid #000;
+    }
+    
+    h1 {
+        text-align: center;
+    }
+    
+    h2 {
+        text-align: center;
+    }
+    
+    aside {
+        margin-top: 0.35%;
+        position: relative;
+        width: 28%;
+        padding: 2px;
+        background-color: #8B0000;
+        color: white;
+        display: inline-block;
+        vertical-align: top;
+    }
+    
+    section {
+        background-color: #8B0000;
+        color: white;
+    }
+    
+    .avatar1 img {
+        float: right;
+        margin-right: 150px;
+        width: 80px;
+    }
+    
+    .avatar1 a {
+        float: right;
+        margin-right: 120px;
+        color: white;
+    }
+    
+    .avatar2 img {
+        float: right;
+        margin-right: 150px;
+        width: 80px;
+    }
+    
+    .avatar2 a {
+        float: right;
+        margin-right: 130px;
+        color: white;
+    }
+    
+    .avatar3 img {
+        float: right;
+        margin-right: 150px;
+        width: 80px;
+    }
+    
+    .avatar3 a {
+        float: right;
+        margin-right: 128px;
+        color: white;
+    }
+    
+    #footer {
+        background-color: #8B0000;
+        color: white;
+        font-size: 18px;
+        padding: 5px 0;
+        width: 100%;
+    }
+    
+    .endereco {
+        text-align: center;
+    }
+    
+    .facebook img {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        position: absolute;
+        left: 26%;
+        bottom: -30%;
+        margin-left: -340px;
+        margin-top: -40px;
+    }
+    
+    .instagram img {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        position: absolute;
+        left: 30%;
+        bottom: -30%;
+        margin-left: -340px;
+        margin-top: -40px;
+    }
+    
+    .linkedin img {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        position: absolute;
+        left: 34%;
+        bottom: -30%;
+        margin-left: -340px;
+        margin-top: -40px;
+    }
+    
+    .desenvolvedor {
+        position: absolute;
+        right: 26%;
+        bottom: -30%;
+        margin-right: -340px;
+        margin-top: -40px;
+    }
